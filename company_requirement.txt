@@ -1,0 +1,35 @@
+Synopsis
+Softnautics is looking for Associate/Senior Engineer who is technically strong, possesses hands-on experience in Machine Learning Solutions in domain of Audio, Video, IoT. The role will be part of Embedded department in which there is a very strong culture of teamwork, cooperation and collaboration.
+
+As a Machine Learning Engineer, you will get opportunity to design, develop & optimize Machine Learning models for different applications and optimize and deploy them to embedded platforms. You will closely work with Machine Learning experts at Softnautics to get end-to-end Machine Learning pipeline experience.
+
+Responsibilities
+Work as an individual contributor and/or team lead.
+As a team lead, mentor and build the team of next level professionals
+Technical ownership for module (s) and / or project (s) and / or domain (s)
+Project(s) planning & execution including requirement understanding, effort estimation, customer interaction, deliverables
+Handle Architecture Design, software design, reviews
+Documentation and Process adherence
+Required Skills:
+2 - 5 years of experience with Machine Learning Solutions in the domain of Audio, Video, Image, IoT
+1 - 3 years of experience working with Complex (SoC / Microprocessors) Embedded System
+Hands-on experience with Python and OOP concepts
+Strong at programming, debugging and communication
+Sound knowledge of version control and bug tracking systems – GIT, JIRA, Perforce, CVS etc.
+Hands on experience on Machine Learning Algorithms – Conventional and Deep Learning
+Hands on experience working on Machine Learning Platforms / Frameworks like TensorFlow, TensorFlow Lite, Keras, Caffe/2, MxNet, pyTorch etc.
+Sound knowledge of Cloud Computing tools’ cognitive ML services – Google cloud, AWS, Azure, IBM Cloud etc.
+Experience building machine learning models – Model building & customization, model training and parameter tuning
+Experiencing with optimizing deep learning models for embedded platforms using TinyML, Tensorflow Lite, etc
+Experience working on Large datasets – Learning, tuning
+Experience with deploying model on edge devices like FPGAs
+Familiar with Deep Learning Compilers – CPUs, GPUs, FPGAs
+Should be able to work in aggressive, high pressure environment
+Excellent written and verbal communication
+Self-starter, problem-solving mentality, and creative thinker
+Desirable Skills:
+Experience of mentoring 2 or 3 engineers
+Quality process – CMMi, Agile Scrum
+Good knowledge of working with opensource software packages is beneficial and preferred
+Positive attitude
+Ready to switch between domains based on the project needs
