@@ -41,7 +41,6 @@ def predict():
 
     if request.method == 'POST':
         
-        Company_Name=request.form['Company_Name']
         
         return render_template('index.html',prediction_text="{}".format(match))
     else:
