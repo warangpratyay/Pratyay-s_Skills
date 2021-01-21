@@ -11,14 +11,15 @@
 
     <div style="color:black">
         <form action="{{ url_for('predict')}}" method="post">
-            <h2>What makes Pratyay Warang right candidate for Softnautics</h2>
 			<br>
 			<br>
-            <h3>Select Company</h3><br><select name="Company_Name" id="company" required="required">
-                <option value="Softnautics">Softnautics</option>  
-            </select>
+            <h1>Pratyay Warang</h1>
 			<br>
+			<h2>What makes me the right candidate for Softnautics?</h2>
 			<br>
+			<p>This program scans the job requirement posted by recruiter and compares it with my key skills.</p>
+			<p>It then prints the skills common to both.</p>
+			
             <br><br><button id="sub" type="submit ">Matching Skills</button>
             <br>
 
@@ -26,10 +27,9 @@
 
 
         </form>
-		<br><br>
-		<h3>I believe my following skill set will help add great value to our company:</h3>
-
-        <br><br><h3>{{ prediction_text }}</h3>
+		<br>
+		<h3>I believe my following skill set will help add value to Softnautics:</h3>
+		<h3 style="color:blue">{{ prediction_text }}</h3>
     </div>
 
 
