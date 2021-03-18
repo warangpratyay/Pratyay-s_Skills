@@ -1,35 +1,52 @@
-Synopsis
-Softnautics is looking for Associate/Senior Engineer who is technically strong, possesses hands-on experience in Machine Learning Solutions in domain of Audio, Video, IoT. The role will be part of Embedded department in which there is a very strong culture of teamwork, cooperation and collaboration.
+Job Description:
 
-As a Machine Learning Engineer, you will get opportunity to design, develop & optimize Machine Learning models for different applications and optimize and deploy them to embedded platforms. You will closely work with Machine Learning experts at Softnautics to get end-to-end Machine Learning pipeline experience.
 
-Responsibilities
-Work as an individual contributor and/or team lead.
-As a team lead, mentor and build the team of next level professionals
-Technical ownership for module (s) and / or project (s) and / or domain (s)
-Project(s) planning & execution including requirement understanding, effort estimation, customer interaction, deliverables
-Handle Architecture Design, software design, reviews
-Documentation and Process adherence
-Required Skills:
-2 - 5 years of experience with Machine Learning Solutions in the domain of Audio, Video, Image, IoT
-1 - 3 years of experience working with Complex (SoC / Microprocessors) Embedded System
-Hands-on experience with Python and OOP concepts
-Strong at programming, debugging and communication
-Sound knowledge of version control and bug tracking systems – GIT, JIRA, Perforce, CVS etc.
-Hands on experience on Machine Learning Algorithms – Conventional and Deep Learning
-Hands on experience working on Machine Learning Platforms / Frameworks like TensorFlow, TensorFlow Lite, Keras, Caffe/2, MxNet, pyTorch etc.
-Sound knowledge of Cloud Computing tools’ cognitive ML services – Google cloud, AWS, Azure, IBM Cloud etc.
-Experience building machine learning models – Model building & customization, model training and parameter tuning
-Experiencing with optimizing deep learning models for embedded platforms using TinyML, Tensorflow Lite, etc
-Experience working on Large datasets – Learning, tuning
-Experience with deploying model on edge devices like FPGAs
-Familiar with Deep Learning Compilers – CPUs, GPUs, FPGAs
-Should be able to work in aggressive, high pressure environment
-Excellent written and verbal communication
-Self-starter, problem-solving mentality, and creative thinker
-Desirable Skills:
-Experience of mentoring 2 or 3 engineers
-Quality process – CMMi, Agile Scrum
-Good knowledge of working with opensource software packages is beneficial and preferred
-Positive attitude
-Ready to switch between domains based on the project needs
+
+- R&D experience in the area of Computer Vision/ Image Processing/Pattern Recognition/ Machine Learning
+
+- Sound knowledge of algorithms such as object detection/ recognition/ tracking/ classification
+
+- Proficiency in C/C++ programming is a must
+
+- Proficiency in OpenCV /Matlab programming is a must
+
+- Experience of Java/Android-based programming is a plus
+
+- Experience in Embedded programming is a plus
+
+- Ability to create new IP and solutions in Computer vision/Image Processing domain
+
+
+Note:
+
+ 
+
+Work Location : Pune 
+You will be the permanent employee of Delta IOT ( A GGS Engineering Services Group Company)
+Your Working location will be at Delta IoT office or Customer location
+Working hours will be Monday to Friday 09:00 AM to 06:30 PM. Saturday & Sunday is weekly
+ 
+
+About Delta IOT (A GGS Engineering Services Group Company):-
+
+ 
+
+At Delta, we bring together end-to-end embedded product engineering services. We deliver a unique blend of product engineering capabilities and analytics -with a design-first approach.
+
+This often helps to see the big picture and a customer-first orientation in a broad engineering field.
+
+We offer services like IOT, Embedded Software, PCB design, Machining Learning, Cloud Services and Home Automation. For further details please refer our website : https://www.deltaiot.in/
+
+ 
+
+GGS Engineering Services is a market leader in providing engineering services and technology solutions for Major OEM's around the globe.
+
+We offer comprehensive, innovative and cost-effective solutions covering Product Development, Systems Engineering and Manufacturing Engineering for global customers.
+
+ 
+
+GGS ES group companies have 5,000+ associates across global locations. We adopt a proactive approach to serve our clients in America, Europe, Middle East and Asia Pacific.
+
+Our expertise lies within the Automotive, Commercial Vehicles, Farm Equipment, Aerospace and Construction & Industrial Equipment.
+
+For further details please refer our website:-http://www.ggsengineering.com/
