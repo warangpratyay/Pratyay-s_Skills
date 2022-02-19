@@ -1,52 +1,64 @@
-Job Description:
+Job Description
+  
+Responsibilities
+• As an SAP BASIS Automation Consultant, you are responsible for designing and standardizing the SAP Architecture both on-premise as well as in the cloud using the automation technologies
+• You will test new technologies and create Proof of Concepts around them.
+• You will work with the client to understand their need from new or existing technologies.
+• You will create Work instructions for new technologies / functions before they are implemented in existing or new environments.
+• You will transfer new technologies into the existing operations.
+• You will optimize the existing SAP System architecture in the Datacenter.
+• Proven SAP systems delivery and/or system administration knowledge across the suite of major SAP applications & versions.
+• You will also play an important role in the development, configuration and deployment of the overall solution.
+• You will guide teams on project processes, deliverables and contribute to the proposal development, client training and internal capability-building and help detail the project scope.
+• You will have the opportunity to shape value-adding consulting solutions that enable our clients to meet the changing needs of the global landscape.
+• Automation of Technical delivery of SAP Basis, HANA and Oracle administration activities for production support environments
+• Automation of BASIS tasks such as Parameter changes, Kernel upgrades, Hardening, Takeover, Support pack upgrade, certificate imports, License updates, Java system deployment, Plug-In installation, SSL Certificate, Oracle upgrade, Web dispatcher configuration, printer management, profile management, etc.,
+• Automation of Implementing an optimal SAP configuration, SAP Notes to maximize system performance and availability of all SAP systems.
+• Analyze reoccurring Incidents, Problem tickets and provide automation recommendation / solution for a permanent fix.
+• Train the users (end and key users) and prepare training material if required in order to ensure a smooth transition to the new system/process for the users
+• Create and maintain knowledge repository for issues resolved, encourage team members to add knowledge based on their experience and assist in building useful documents in order to leverage the knowledge gained over the years in relevant areas.
 
+Educational Requirements
+BTech, Bachelor of Engineering
 
+Service Line
+Cloud & Infrastructure Services
 
-- R&D experience in the area of Computer Vision/ Image Processing/Pattern Recognition/ Machine Learning
+Technical and Professional Requirements:
+- Automation Technologies: Python, Perl, Saltstack, Go4SAP, LaMa, Frontend Automation, (RPA), - Application: SAP Basis, NetWeaver, ABAP/Java-Stack, SAP PI/PO, Avantra, ServiceNow, SAP LaMa- Database: SAP HANA, Oracle, MaxDB- Operating Systems: Linux, Unix, Windows
 
-- Sound knowledge of algorithms such as object detection/ recognition/ tracking/ classification
+Preferred Skills:
+SAP HANA
+SAP ABAP->SAP ABAP HANA
+SAP NETWEAVER
+SAP BASIS
+Work Experience: 5 Years and above
 
-- Proficiency in C/C++ programming is a must
+* Location of posting is subject to business requirements
+Role:Technical Consultant
 
-- Proficiency in OpenCV /Matlab programming is a must
+Salary: Not Disclosed by Recruiter
 
-- Experience of Java/Android-based programming is a plus
+Industry:IT Services & Consulting
 
-- Experience in Embedded programming is a plus
+Functional Area:Consulting
 
-- Ability to create new IP and solutions in Computer vision/Image Processing domain
+Role Category:IT Consulting
 
+Employment Type:Full Time, Permanent
 
-Note:
+Key Skills
+PerlSaltstackPython
+MaxdbSystem AdministrationSap HanaSystem PerformanceSAP PIData CenterSAP ABAPSAP BasisSap ConfigurationSAP NetWeaver
+Skills highlighted with ‘‘ are preferred keyskills
+Education
 
- 
+UG:B.Tech/B.E. in Any Specialization
 
-Work Location : Pune 
-You will be the permanent employee of Delta IOT ( A GGS Engineering Services Group Company)
-Your Working location will be at Delta IoT office or Customer location
-Working hours will be Monday to Friday 09:00 AM to 06:30 PM. Saturday & Sunday is weekly
- 
+PG:Any Postgraduate
 
-About Delta IOT (A GGS Engineering Services Group Company):-
+Company Profile
+Infosys
 
- 
-
-At Delta, we bring together end-to-end embedded product engineering services. We deliver a unique blend of product engineering capabilities and analytics -with a design-first approach.
-
-This often helps to see the big picture and a customer-first orientation in a broad engineering field.
-
-We offer services like IOT, Embedded Software, PCB design, Machining Learning, Cloud Services and Home Automation. For further details please refer our website : https://www.deltaiot.in/
-
- 
-
-GGS Engineering Services is a market leader in providing engineering services and technology solutions for Major OEM's around the globe.
-
-We offer comprehensive, innovative and cost-effective solutions covering Product Development, Systems Engineering and Manufacturing Engineering for global customers.
-
- 
-
-GGS ES group companies have 5,000+ associates across global locations. We adopt a proactive approach to serve our clients in America, Europe, Middle East and Asia Pacific.
-
-Our expertise lies within the Automotive, Commercial Vehicles, Farm Equipment, Aerospace and Construction & Industrial Equipment.
-
-For further details please refer our website:-http://www.ggsengineering.com/
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in 45 countries to navigate their digital transformation. With over three decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+Company Info
