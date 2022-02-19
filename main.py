@@ -24,7 +24,7 @@ def predict():
             9: 'I have automated Basis tasks like monitoring, job ticket creation, dumps analysis etc ',
             10: 'I have hands on experience on various Automation and RPA technologies viz. Python, pyautogui, Automation Anywhere, UI Path, Splunk '}
 
-    keywords = {'Requirements': 3, 'Python,': 4, 'Machine': 5, 'Basis': 6, 'Kernel': 7, 'team': 8, 'python': 4, 'positive': 2, 'switch': 2, 'solutions': 3, 'python': 4, 'machine': 5, 'basis': 9, 'automation': 10, '(RPA)': 8, 'administration': 9, 'Automation,':10, 'RPA': 10, 'creative': 10}
+    keywords = {'Requirements': 3, 'Python': 4, 'Machine': 5, 'Basis': 6, 'Kernel': 7, 'team': 8, 'python': 10, 'positive': 2, 'switch': 2, 'solutions': 3, 'python': 4, 'machine': 5, 'basis': 9, 'automation': 10, '(RPA)': 10, 'administration': 9, 'Automation':10, 'RPA': 10, 'creative': 10}
     matching_skills = []
     with open("company_requirement.txt") as openfile:
         for line in openfile:
