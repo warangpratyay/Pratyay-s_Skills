@@ -18,13 +18,13 @@ def predict():
             3: 'I am excellent at understanding the core business model, analyzing company reports, identifying problems & critical areas, and providing best solutions for the company to get an edge over its competition. ',
             4: 'I have hands on experience with Python and its various Libraries. ',
             5: 'I have hands on experience on various Machine Learning (ML) Algorithms and skilled in extracting valuable information from data. ',
-            6: 'I have hands on experience on Deep Neural Networks (DNN) & transforming data science prototypes to production-grade solutions. ',
-            7: 'I have hands on experience on Convolutionary Neural Networks (CNN). ',
-            8: 'I have knowlege in NLP using LSTM. ',
-            9: 'I have knowledge of deploying ML models using cloud technologies. ',
-            10: 'I am self-motivated, a self-starter and have a creative & problem solving mentality. '}
+            6: 'I have hands on experience on SAP Basis and monitoring activities. ',
+            7: 'I have hands on experience on various upgrades viz. Kernel, DB2, Hana Patching, DB2 Fix Pack, C-CEE Upgrade, ST/PI, ST-A/PI etc. ',
+            8: 'I am a team player who can assist and guide team members whenever possible. ',
+            9: 'I have automated Basis tasks like monitoring, job ticket creation, dumps analysis etc ',
+            10: 'I have hands on experience on various Automation and RPA technologies viz. Python, pyautogui, Automation Anywhere, UI Path, Splunk '}
 
-    keywords = {'requirement': 3, 'Python': 4, 'Machine': 5, 'Deep': 6, 'Image': 7, 'language': 8, 'opensource': 1, 'positive': 2, 'switch': 2, 'solutions': 3, 'python': 4, 'machine': 5, 'DNN': 6, 'CNN': 7, 'NLP': 8, 'cloud': 9, 'self':10, 'solving': 10, 'creative': 10}
+    keywords = {'Requirements': 3, 'Python': 4, 'Machine': 5, 'Basis': 6, 'Kernel': 7, 'team': 8, 'opensource': 1, 'positive': 2, 'switch': 2, 'solutions': 3, 'python': 4, 'machine': 5, 'DNN': 6, 'CNN': 7, 'NLP': 8, 'administration': 9, 'Automation':10, 'RPA': 10, 'creative': 10}
     matching_skills = []
     with open("company_requirement.txt") as openfile:
         for line in openfile:
