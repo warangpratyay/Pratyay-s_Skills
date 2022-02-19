@@ -34,7 +34,9 @@ def predict():
                         matching_skills.append(keywords[key])
     matching_skills = list(dict.fromkeys(matching_skills))
     print(matching_skills)
-    matching_skills.append(['7','9','10'])
+    common_skills = ['7','9','10']
+    for i in common_skills:
+        matching_skills.append(i)
     match = ''
     for i in matching_skills:
         match = match + '\n' + my_skills[i]
