@@ -32,7 +32,7 @@ def predict():
                 for key in list(keywords.keys()):
                     if key in part:
                         matching_skills.append(keywords[key])
-    matching_skills = list(dict.fromkeys(matching_skills))
+    
     print(matching_skills)
     common_skills = ['7','9','10']
     for i in common_skills:
